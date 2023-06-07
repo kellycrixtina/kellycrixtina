@@ -16,5 +16,5 @@
 ### Sobre mim
 
 - Pronomes: Ela/dela
-- Estudando na UNISUAM
+- Estudando Análise e Desenvolvimento de Sistemas na UNISUAM
 
